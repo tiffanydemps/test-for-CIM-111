@@ -1,0 +1,110 @@
+<!DOCTYPE HTML>
+
+<head>
+  <title>Tiffany Demps Resume</title>
+  <meta charset="utf-8" />
+  <meta name="author" content="Tiffany Demps." />
+  <meta name="keywords" content="tiff resume website" />
+</head>
+
+<body>
+  <header>
+    <h1>
+  Tiffany Demps Resume
+</h1>
+
+
+
+  </header>
+
+  <main>
+    <img src="tiffhat.jpeg" alt="photo of Tiffany Demps" width="320" /
+    <p>Hi, I'm Tiffany. An undergraduate student at the University of Miami studying Public Relations with a minor in Health Communication. After graduation I plang Grad School for Occupational Therapy while working to promote healthy lifestyle enhancements. In my free time I like to attend events, take my son on adventures and spend time with friends and family. </p>
+
+
+
+
+    <h3>University of Miami</h3>
+
+    <h4>Public Relations, Spring 2020</h4>
+    <ul>
+      <li>Enjoys school since switching to</li>
+      <li>Comm School</li>
+      <li>Usually running late</li>
+      <li>but I'm working on it</it>
+    </ul>
+
+
+    <h4>Work Experience</h4>
+    <ul>
+      <li>Mail Room Clerk, Postal Service</li>
+      <li>Medical Logistician, Medical Reserach</li>
+      <li>Soldier, US Army </li>
+    </ul>
+
+This is my website <li><a
+href= "https://www.modernmomsmiami.com/"> Modern Moms Miami</a><li>
+
+  <li><a
+          href= "https://www.wix.com/"> Wix.com</a><li>
+            <i>(what I previously used to edit sites)</i>
+
+    <h3>Interests</h3>
+    <ul>
+      <li>Exploring</li>
+      <li>Working Out</li>
+      <li>Cooking ( I've been trying new dishes lately)</li>
+     <li>Surfing the web</li>
+    </ul>
+
+    <h3>Skills</h3>
+        <ul>
+          <li>Dancing</li>
+          <li>Microsoft Suite</li>
+          <li> Great at making Wix websites</li>
+          <li> but now I'm learning the real deal in this class </li>
+        </ul>
+        
+
+<table>
+  <tr>
+    <th> Birthday </th>
+    <th> Kiddo </th>
+  </tr>
+      <!-- My name is Tiffany again-->
+      <tr>
+<td> June 13th </td>
+<td> Bryson </td>
+</tr>
+
+<tr>
+  <tr>
+
+  <td> Gemini</td>
+    <td> 13 months</td>
+</tr>
+
+</table>
+
+
+      </main>
+
+      <br>
+
+      <footer>
+        <h3>If you need me</h3>
+        <ol>
+          <li>Email: txd334@miami.edu</li>
+          <li>Instagram: @onetseoul</li>
+        </ol>
+        <address>
+      University of Miami
+      5200 Brunson Drive
+      Coral Gables, FL 33146
+    </address>
+      </footer>
+
+
+    </body>
+
+    </html>
