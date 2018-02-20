@@ -1,0 +1,92 @@
+
+#colorbar{
+background-color: gray;
+height: 80px;
+width: 100%;
+}
+
+h1 {
+font-family: 'lobster', sans-serif;
+background-color: gray;
+color: purple;
+text-align: center;
+}
+
+
+#lowbar{
+background-color: gray;
+height: 10px;
+width: 100%;
+}
+
+#anotherlowbar{
+background-color: gray;
+height: 10px;
+width: 100%;
+}
+
+
+h2 {
+  font-family: pacifico;
+  color: purple;
+  text-align: center;
+}
+
+
+h3{
+  color: purple;
+}
+
+p{
+font-family:'sans-serif', 'Raleway';
+color: gray;
+}
+
+ul.custom{
+list-style-type: star;
+}
+
+img{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 7px solid purple;
+
+}
+
+/*when you hover over my links modernmomsmiami and wix, both will turn purple*/
+
+a:hover{
+color: gray;
+}
+
+.row{
+font style:'pacifico' lobster;
+}
+
+
+ul.changecircle{
+list-style-type: square;
+}
+
+ul.trydisc{
+list-style-type: disc;
+}
+
+
+th {
+font-family: sans-serif;
+color: purple;
+}
+
+#midlowbar{
+background-color: gray;
+height: 10px;
+width: 100%;
+}
+
+#lastlowbar{
+background-color: gray;
+height: 10px;
+width: 100%;
+}

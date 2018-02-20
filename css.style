@@ -1,0 +1,44 @@
+
+#colorbar {
+  background-color: purple;
+  height: 50px;
+  width: 100%;
+}
+
+h3 {
+font style: 'pacifico' lobster;
+}
+
+h1 {
+font- family: 'lobster' playfair display;
+background- color: white;
+color: light purple;
+text-alight: center;
+}
+
+body{
+font- family: 'PT Sans' Raleway;
+color: gray
+text- alight: right
+}
+
+ul.custom{
+list-style-type: star;
+}
+
+backgoundcolor{
+color: gray;
+}
+
+}
+
+image{
+border: 15px:
+color: light purple;
+}
+
+*/when you hover over my links modernmomsmiami and wix, both will turn purple*/
+
+a:hover{
+color: light purple;
+}
