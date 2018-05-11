@@ -1,0 +1,60 @@
+<!DOCTYPE HTML>
+
+<head>
+  <title> Livng La Vida Natural</title>
+  <meta charset="utf-8">
+  <meta name="author" content="Tiffany Demps">
+  <meta name="keywords" content="Tiffany Repsonsive Website">
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Lobster|PT+Sans|Pacifico" rel="stylesheet">
+  <link href="responsive.css" type="text/css" rel="stylesheet">
+</head>
+
+
+  <div id="colorbar">
+  </div>
+
+
+<h1>Living La Vida Natural</h1></div>
+
+
+  <div id="colorbar">
+  </div>
+
+
+
+<body> Hello Beautiful People!
+<p> We hope you find the inspiration you need to stay a Naturalista </P>
+</body>
+
+
+<div id="supersmallbar">
+</div>
+
+<div id="nav">
+<nav>
+    <a href="responsive.html">home</a></li>
+    <a href="Style.html">style</a></li>
+    <a href="protect.hmtl">Protect</a></li>
+</nav>
+
+
+
+<div id="supersmallbar">
+</div>
+
+<main>
+  <h2>Rock your Afro</h2>
+    <img src="brownfro.jpeg" alt="photo of Brown Afro" width="320"/>
+  <h2> Protect your Baby</h2>
+    <img src="braids.jpeg" alt="photo of Braids" width="320"/>
+
+</main>
+
+
+
+
+
+
+</body>
+
++</html>
